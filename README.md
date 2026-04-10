@@ -1,4 +1,4 @@
-Smart Irrigation System
+Smart Irrigation System.
 An automated irrigation system built with Arduino that monitors soil conditions in real time and controls a water pump automatically - no manual intervention needed.
 
 Features:
