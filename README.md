@@ -10,7 +10,7 @@
 ![Relay](https://img.shields.io/badge/Actuator-Relay_Module-red?style=flat-square)
 ![Pump](https://img.shields.io/badge/Actuator-Submersible_Pump-navy?style=flat-square)
 
-An Arduino-based automated irrigation system that monitors soil conditions in real time and controls a water pump automatically — no manual intervention needed. Built as an independent project to explore sensor integration, control logic, and autonomous system design.
+An Arduino-based automated irrigation system that monitors soil conditions in real time and controls a water pump automatically - no manual intervention needed. Built as an independent project to explore sensor integration, control logic, and autonomous system design.
 
 ---
 
