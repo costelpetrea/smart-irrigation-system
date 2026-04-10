@@ -15,7 +15,7 @@ Water level sensor
 Relay module
 Submersible water pump
 
-How It Works
+How It Works:
 The system continuously reads data from all three sensors. If the soil is dry and no rain is detected and the water reservoir is full, the pump activates automatically. As soon as the soil reaches the target moisture level, the pump stops.
 
 What I Learned
