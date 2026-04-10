@@ -18,12 +18,12 @@ Submersible water pump
 How It Works:
 The system continuously reads data from all three sensors. If the soil is dry and no rain is detected and the water reservoir is full, the pump activates automatically. As soon as the soil reaches the target moisture level, the pump stops.
 
-What I Learned
+What I Learned:
 Sensor integration and analog/digital signal reading
 Writing interrupt-driven and polling-based control logic in C++
 Building a reliable system that runs autonomously over long periods
 Dealing with real-world issues like sensor drift and false readings
 
-Timeline
+Timeline:
 April 2021 – October 2021 | Independent Project
 
